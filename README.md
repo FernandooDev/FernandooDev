@@ -21,6 +21,9 @@
 <h3> 📖 &nbsp; Aprendendo </h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+     <a href="https://react.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Glossary/Node.js">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
