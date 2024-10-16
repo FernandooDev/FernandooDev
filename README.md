@@ -3,7 +3,7 @@
  <h3> 🙋‍♂️ &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Procuro explorar novas tecnologias.
-- 🎓 &nbsp; Programador **Back-end** Júnior.
+- 🎓 &nbsp; Programador **Front-end** Júnior.
 - 💻 &nbsp; **Founder & Owner:** [Javrs Code] (FiveM Resources)
 
 <h3> 🚀 &nbsp; Habilidades </h3>
